@@ -18,6 +18,4 @@
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></code>
-  <img width="12" />
 </div>
